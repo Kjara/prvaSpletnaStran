@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+.header{
+
+}
+
+.navbar navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
+
+.navbar {
+    border-radius: 4px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+.collapse navbar-collapse li{
+    color:gold;
+    display: inline;
+}
+
+.jumbotron {
+  display: block;
+  /* add bootstrap jumbotron background image */
+  background-size: cover;
+  /* change bootstrap jumbotron text color */
+  color: white;
+  width: 100%;
+  height: auto;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.container {
+
+}
+
+.row text-center{
+
+}
+
+.main{
+
+}
+
+.mainrow col-sm-6{
+    border: 10px;
+}
+
+.footer{
+
+}
+
+.footerrow{
+
+}
